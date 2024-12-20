@@ -126,5 +126,16 @@ Este projeto tem como objetivo desenvolver um painel interativo para análise de
    - Mapas que destacam as vendas por região.
 
 ---
-Caso tenha dúvidas ou sugestões, entre em contato! 😊
+
+## 📊 Link para o Dashboard
+![image](https://github.com/user-attachments/assets/bdc77f4a-2e49-49b2-b21a-1f827aa6e800)
+
+https://app.powerbi.com/view?r=eyJrIjoiMWM2MDUwOWUtODBiNy00M2NhLTliOTAtN2M5ZDFkYWQxMTFhIiwidCI6IjM3NWZkZjA4LTI0YTgtNDFjZC04ZWQyLThkZjE4YjZkNjg3NCJ9&pageName=c33c9c20511b95866562
+
+---
+## 📧 Contato
+Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+
+- **Email:** jkaminovski@gmail.com
+- **LinkedIn:** [(https://www.linkedin.com/in/joice-kaminovski-dias/)]
 
